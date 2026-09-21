@@ -1,0 +1,29 @@
+{
+  "frame": "F49c.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-action-sheet-locked",
+  "type": "sheet_locked_chain_frame",
+  "status": "accepted_pending_completion",
+  "reference_frame": "F48c.jpg",
+  "mandatory_character_sheets": [
+    "basiji-pro.jpg"
+  ],
+  "ui_frame_lock": "F47c.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-sheet-locked-prompts.md",
+  "prompt_delta": "neck continues; upper-left and south-west reposition",
+  "qa": {
+    "top_down_north_up": true,
+    "hud_bezel_pixel_locked": true,
+    "bull_standing": true,
+    "required_basiji_count": 8,
+    "required_ak47_count": 8,
+    "character_sheet_match": "basiji-pro.jpg"
+  },
+  "file_sha256": "3c2e5e54e6b71ae79b7fa1326a9b8e1350e5e3136dd6ee493ec35e2ec6305fc2",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  }
+}

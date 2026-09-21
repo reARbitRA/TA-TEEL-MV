@@ -1,0 +1,29 @@
+{
+  "frame": "F54c.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-action-sheet-locked",
+  "type": "sheet_locked_chain_frame",
+  "status": "accepted_pending_completion",
+  "reference_frame": "F53c.jpg",
+  "mandatory_character_sheets": [
+    "basiji-pro.jpg"
+  ],
+  "ui_frame_lock": "F47c.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-sheet-locked-prompts.md",
+  "prompt_delta": "comic strum; south-east begins rise",
+  "qa": {
+    "top_down_north_up": true,
+    "hud_bezel_pixel_locked": true,
+    "bull_standing": true,
+    "required_basiji_count": 8,
+    "required_ak47_count": 8,
+    "character_sheet_match": "basiji-pro.jpg"
+  },
+  "file_sha256": "e20aa44810dee1189e72943c33aef89677f9f7d47d0265a89595e83907bdaf5e",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  }
+}

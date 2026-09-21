@@ -1,0 +1,29 @@
+{
+  "frame": "F48c.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-action-sheet-locked",
+  "type": "sheet_locked_chain_frame",
+  "status": "accepted_pending_completion",
+  "reference_frame": "F47c.jpg",
+  "mandatory_character_sheets": [
+    "basiji-pro.jpg"
+  ],
+  "ui_frame_lock": "F47c.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-sheet-locked-prompts.md",
+  "prompt_delta": "bull neck begins turn; two left-side body adjustments",
+  "qa": {
+    "top_down_north_up": true,
+    "hud_bezel_pixel_locked": true,
+    "bull_standing": true,
+    "required_basiji_count": 8,
+    "required_ak47_count": 8,
+    "character_sheet_match": "basiji-pro.jpg"
+  },
+  "file_sha256": "31376b56978eedae4e51072d25389ecdf50656429e79c5ee5b2968b40f7a168b",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  }
+}

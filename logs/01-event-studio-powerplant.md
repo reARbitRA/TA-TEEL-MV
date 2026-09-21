@@ -73,3 +73,6 @@ F54u and F55u rejected and archived. The ornate video-game UI bezel/HUD is a pix
 
 ## Character-sheet hard lock — producer correction
 No final frame may use generic or inferred character designs. For every non-bull character, generation and QA must use the approved production sheet: `basiji-pro.jpg`, `turbine-akhund-pro.jpg`, `zan-vazir-pro.jpg`, and, when applicable, the remaining `*-pro.jpg` sheets. Existing 01C material predates this lock and is frozen for audit rather than treated as a valid final character-design source.
+
+## 01C sheet-locked rebuild
+F47c–F55c replace the invalid pre-sheet-lock action path. The contact sheet confirms fixed UI bezel, eight sheet-locked basijis, standing bull, gradual neck turn and staged guitar/kick setup. Alignment successor distances: 2, 3, 4, 1, 2, 2, 0, 4.
