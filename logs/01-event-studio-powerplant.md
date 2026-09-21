@@ -88,3 +88,6 @@ F54c, F55c and F56e rejected. Visual recount found only seven readable basijis o
 
 ## Rejected action-rebuild variants
 F54d, F54e and F54f rejected and archived after visual QA: they respectively redesigned the HUD, created a ninth basiji, or failed to move the specified kicker. They must not seed the continuation. Active valid sheet-locked progression stops at F53c.
+
+## Accepted kick-preparation beat
+F54h is accepted as the single requested continuation from F53c: exact eight-basiji count retained, sheet identities retained, fixed game UI retained, and the existing south-east basiji raises a boot in place toward the guitarist. F54g was rejected and archived for creating a ninth character.

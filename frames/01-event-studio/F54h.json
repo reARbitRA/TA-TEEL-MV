@@ -1,0 +1,28 @@
+{
+  "frame": "F54h.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-action-sheet-locked",
+  "type": "sheet_locked_chain_frame",
+  "status": "accepted_pending_completion",
+  "reference_frame": "F53c.jpg",
+  "mandatory_character_sheets": [
+    "basiji-pro.jpg"
+  ],
+  "ui_frame_lock": "F47c.jpg",
+  "prompt_delta": "Existing south-east basiji raises his near boot in place, diagonally toward the south-centre guitarist; no contact yet.",
+  "qa": {
+    "top_down_north_up": true,
+    "hud_bezel_pixel_locked": true,
+    "bull_standing": true,
+    "required_basiji_count": 8,
+    "required_ak47_count": 8,
+    "character_sheet_match": "basiji-pro.jpg",
+    "visual_review": "pass: eight countable basijis, no new identity, no UI change"
+  },
+  "file_sha256": "56528dec519d4b6ef7196cf6d67780a97a4b32775370b73dfd63236255662860",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  }
+}
