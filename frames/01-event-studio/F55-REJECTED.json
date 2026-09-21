@@ -1,0 +1,18 @@
+{
+  "frame": "F55-REJECTED.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-milking",
+  "type": "rejected-chain-frame",
+  "status": "rejected",
+  "reference_frame": "F54-REJECTED.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-prompts.md",
+  "prompt_delta": "south basiji leans forward; glint reaches junction",
+  "file_sha256": "8787d0c57f2a296e5a40752b44fedb2c469955cd0fe13f6900abdac6159354d4",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  },
+  "rejection_reason": "Visual QA: F52 changes the standing bull into a prone bull; later frames inherit that unacceptable topology drift."
+}

@@ -1,0 +1,38 @@
+{
+  "frame": "F11.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01A-ruined-powerplant",
+  "type": "anchor-test",
+  "status": "rejected",
+  "timing_map_version": "8-calibrated",
+  "timing_window": {
+    "steps": [
+      1
+    ],
+    "start": "0:00.00",
+    "end": "0:08.73"
+  },
+  "references": [
+    "turbine-akhund-pro.jpg",
+    "zan-vazir-pro.jpg",
+    "basiji-pro.jpg",
+    "golden-calf-pro.jpg"
+  ],
+  "prompt_language": "en",
+  "prompt": "Persian Safavid miniature painting, 16th century: a ruined old power plant seen as a strictly flat two-dimensional illuminated manuscript floor plan, broken copper turbines, cracked soot-black tiles, rusted dead control cabinets, exposed brass pipes, lapis lazuli night shadows, real gold leaf, ember orange, dried-blood red, muted clerical green, fine black ink outlines, aged parchment texture, fixed ornate gold tazhib border. top-down bird's-eye view, camera looking straight down, north-up, classic GTA 1/2 perspective — no side view, no isometric. At the exact center stands one monumental horned bull, a weathered brass-and-coin sacred-industrial bull with a dark patina. Four small olive demon-basiji attendants with horns, cloven hooves, and old rifles laid aside kneel in fixed places around it, performing a surreal mechanical milking ritual into four small brass vessels. A single visible opaque milk stream travels from those vessels through a branching brass-and-glass pipe system into the intake of the aged turbine cleric in the north turbine housing: torn muted-green robe, black turban, grey-streaked beard, red gear seal on the forehead. The black cable chador of the copper-and-silver queen is visibly jammed between the stationary turbine blades and housing; her circular twelve blade-fan-arm silhouette is partly visible beside the trapped cable. Every pipe, milk stream, smoke curl, oil vein, and spark is a delicate Persian cloud-band motif. Include tiny Safavid tazhib details in cracked floor tiles and on a rusted fuse plaque. The composition, border, room geometry, and character positions must remain fixed for all later frames. No television studio, television desk, stage curtain, host desk, audience, readable text, letters, numbers, labels, watermark, photorealism, 3D, vanishing point, lens effects, nudity, or explicit sexual content.",
+  "file_sha256": "793a8d801b46083e3d4cb3367330b77a7c5726b69509ecf5d80b1bb156649311",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  },
+  "visual_QA": {
+    "status": "pending_user_approval",
+    "camera": "pass — direct locked top-down, north-up composition",
+    "location": "pass — ruined old power plant, no television studio",
+    "narrative_tokens": "provisional pass — central bull, demon-basiji milk ritual, pipe connection to turbine cleric, cable chador jammed at turbine",
+    "style": "pass — Safavid tazhib border, flat pigments, cloud-band pipes/smoke",
+    "alignment": "single new anchor; pairwise aHash begins with F12"
+  },
+  "rejection_reason": "The woman minister is not the compositional protagonist; the bull and demon-basiji group are not confined to a corner; basiji AK47 token is not legible enough."
+}

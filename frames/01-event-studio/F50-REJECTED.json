@@ -1,0 +1,18 @@
+{
+  "frame": "F50.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-milking",
+  "type": "chain-frame",
+  "status": "rejected_by_producer",
+  "reference_frame": "F49.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-prompts.md",
+  "prompt_delta": "bull tail curves left; bright pulse reaches brass junction",
+  "file_sha256": "2536d73787c5fd160a0b0c3952461627ae659ca0ace983e25502431631738b27",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  },
+  "rejection_reason": "Rejected after visual recount/review: continuation lost the required eighth readable basiji and did not provide the producer-requested deliberate stop-motion body action."
+}

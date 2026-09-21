@@ -1,0 +1,21 @@
+{
+  "frame": "F47r-REJECTED.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-milking",
+  "type": "rejected-anchor-test",
+  "status": "rejected",
+  "prompt_language": "en",
+  "prompt": "Persian Safavid miniature painting, 16th century: a closer top-down floor-plan view of the south-west machinery corner of the same ruined old power plant world. Flat mineral pigments, lapis night shadows, real gold leaf, ember orange, muted clerical green, fine black ink outlines, aged parchment, and a fixed ornate gold tazhib border. top-down bird's-eye view, camera looking straight down, north-up, classic GTA 1/2 perspective — no side view, no isometric. One enormous horned male bull fills the center: thick neck, broad shoulder hump, massive chest, large horn bases, strong hindquarters, and no udder make it clearly a bull; it has worn brass-and-coin material language. Exactly EIGHT separate full-bodied olive demon-basiji attendants are all visible, countable, and non-overlapping. Arrange them at the eight compass positions around the bull: north, north-east, east, south-east, south, south-west, west, and north-west. Each individual has the same reference design: small horns, cloven hooves, dry olive uniform, and a separate clearly visible AK-47 rifle beside or across the body. All eight kneel toward the bull in distinct mechanical milking poses, using eight small brass vessels and short hoses attached to one concealed industrial collection manifold below the bull. Eight small opaque milk streams join into one larger brass-and-glass cloud-band pipe that exits to the north-east turbine. A narrow fragment of the queen minister’s black cable chador is visible at the far north-east edge only, preserving continuity with the wide master. No readable text, letters, numbers, labels, watermark, photorealism, 3D, vanishing point, lens effects, nudity, or explicit sexual content.",
+  "file_sha256": "17522f38bb5ac086ca92415ba25ed26636197934cc7ddecf201bd84289c76c2f",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  },
+  "references": [
+    "F11rr.jpg",
+    "basiji-pro.jpg",
+    "golden-calf-pro.jpg"
+  ],
+  "rejection_reason": "Seven countable demon-basijis appeared; the producer requires eight."
+}

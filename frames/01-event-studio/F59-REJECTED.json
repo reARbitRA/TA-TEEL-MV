@@ -1,0 +1,18 @@
+{
+  "frame": "F59.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-milking",
+  "type": "chain-frame",
+  "status": "rejected_by_producer",
+  "reference_frame": "F58.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-prompts-continuation.md",
+  "prompt_delta": "bull horn tips turn north-west; pulse advances through coupling",
+  "file_sha256": "85745f0ef978569cafc17c373ae3204677d1321ac00f18c3fbc0c234e89f6c44",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  },
+  "rejection_reason": "Producer rejected this continuation: it relied on palette/face drift rather than deliberate readable stop-motion body blocking and action."
+}

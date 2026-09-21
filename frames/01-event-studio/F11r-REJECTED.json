@@ -1,0 +1,17 @@
+{
+  "frame": "F11r-REJECTED.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01A-ruined-powerplant",
+  "type": "rejected-anchor-test",
+  "status": "rejected",
+  "reference_frame": null,
+  "prompt_language": "en",
+  "prompt": "Persian Safavid miniature painting, 16th century: a ruined old power plant seen as a strictly flat two-dimensional illuminated manuscript floor plan, broken copper turbines, cracked soot-black tiles, dead rusted control cabinets, exposed brass pipes, lapis lazuli night shadows, real gold leaf, ember orange, dried-blood red, muted clerical green, fine black ink outlines, aged parchment texture, fixed ornate gold tazhib border. top-down bird's-eye view, camera looking straight down, north-up, classic GTA 1/2 perspective — no side view, no isometric. Use the supplied reference images as strict character-identity references, not camera references. The copper-and-silver queen minister is the dominant central protagonist, occupying the largest area of the composition: her circular black cable chador, twelve blade-fan arms, heavy kohl, gold teeth, and eternal ember glow match the queen reference exactly. At the north-east turbine housing, the aged turbine cleric exactly matches his reference: torn muted-green robe, black turban, grey-streaked beard, red gear seal on the forehead. The queen’s black cable chador is visibly jammed between his stationary turbine blades and housing. Confine every bull and demon-basiji element to the south-west corner only, kept small and secondary: one horned brass-and-coin bull matching the golden-calf reference, with three small olive demon-basijis matching the basiji reference, each with horns, cloven hooves, and one clearly visible AK-47 rifle laid beside him. The demon-basijis kneel around the bull in a surreal mechanical milking ritual into brass vessels. One visible opaque milk flow leaves that south-west corner through a branching brass-and-glass pipe system and reaches the turbine cleric’s intake without obscuring the queen. Every pipe, milk stream, smoke curl, oil vein, and spark is a delicate Persian cloud-band motif. Include tiny Safavid tazhib details in cracked tiles and on a rusted fuse plaque. The exact border, room geometry, character positions, and character scale must remain fixed for later frames. No television studio, television desk, stage curtain, host desk, audience, readable text, letters, numbers, labels, watermark, photorealism, 3D, vanishing point, lens effects, nudity, or explicit sexual content.",
+  "file_sha256": "b7df320d6ab017519346c56ce31399495661fc29e0aee63fa465ae0c88577795",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  },
+  "rejection_reason": "A readable FUSE label appeared, violating the no-text rule."
+}

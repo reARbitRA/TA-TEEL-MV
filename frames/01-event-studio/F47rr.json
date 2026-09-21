@@ -1,0 +1,29 @@
+{
+  "frame": "F47rr.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-milking",
+  "type": "anchor-test",
+  "status": "approved_anchor",
+  "prompt_language": "en",
+  "prompt": "Identical same painting as the supplied reference image: the same closer top-down ruined power-plant corner, the same enormous male brass-and-coin bull, the same seven individually visible olive demon-basijis, the same AK-47 rifles, the same brass vessels, the same hoses, pipe route, cracked tiles, fixed gold tazhib border, colors, lighting, composition, and scale. top-down bird's-eye view, camera looking straight down, north-up, classic GTA 1/2 perspective — no side view, no isometric. The camera does not move at all: no zoom, no pan, no crop — the gold tazhib border stays in the exact same place, the same characters occupy the exact same positions and sizes as in the reference. ONLY these micro-changes: add exactly one eighth small olive demon-basiji at the open north-west position of the group, between the top-left attendant and the left-side attendant; he kneels toward the bull, has horns and cloven hooves, and has one clear AK-47 laid along his left side. The total visible count is now exactly eight demon-basijis. Everything else stays exactly unchanged. Same flat Safavid miniature painting technique, fine black ink outlines, cloud-band motifs, no readable text, letters, numbers, labels, watermark, photorealism, 3D, vanishing point, lens effects, nudity, or explicit sexual content.",
+  "file_sha256": "5e83819e7d1e9488d097d306241de52b34d5242a7a0a97127595b36bdaecf2e3",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  },
+  "references": [
+    "F11rr.jpg",
+    "basiji-pro.jpg",
+    "golden-calf-pro.jpg"
+  ],
+  "visual_QA": {
+    "status": "approved_by_user",
+    "camera": "pass — direct locked top-down close subshot",
+    "count": "pass — eight countable demon-basijis",
+    "bull": "pass — large horned male bull with no udder",
+    "weapons": "pass — AK-47 token visible for each attendant",
+    "text": "pass — no readable text observed",
+    "alignment": "anchor for 01C; pairwise aHash begins with first accepted successor"
+  }
+}

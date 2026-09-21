@@ -1,0 +1,18 @@
+{
+  "frame": "F58.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-milking",
+  "type": "chain-frame",
+  "status": "rejected_by_producer",
+  "reference_frame": "F57r.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-prompts-continuation.md",
+  "prompt_delta": "north-west basiji straightens; new pulse appears at hose inlet",
+  "file_sha256": "e7b75bee11fcbfec1173b0b14b16706cbfc99d29a44626a898d120643e0c351f",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  },
+  "rejection_reason": "Producer rejected this continuation: it relied on palette/face drift rather than deliberate readable stop-motion body blocking and action."
+}

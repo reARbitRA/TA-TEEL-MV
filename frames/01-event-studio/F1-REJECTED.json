@@ -1,0 +1,39 @@
+{
+  "frame": "F1.jpg",
+  "shot_id": "01-event-studio",
+  "type": "anchor-test",
+  "status": "accepted_anchor",
+  "timing_map_version": "8-calibrated",
+  "timing_window": {
+    "steps": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "start": "0:00.00",
+    "end": "0:29.92"
+  },
+  "references": [
+    "turbine-akhund-pro.jpg",
+    "zan-vazir-pro.jpg",
+    "divche-pro.jpg"
+  ],
+  "prompt_language": "en",
+  "prompt": "Persian Safavid miniature painting, 16th century: a strictly flat two-dimensional state-television studio floor plan at night, illuminated manuscript aesthetic, flat mineral pigments, lapis lazuli night, real gold leaf, ember orange, dried-blood red, muted clerical green, fine black ink outlines, crisp cut-out forms with tiny symbolic drop shadows, aged parchment texture. top-down bird's-eye view, camera looking straight down, north-up, classic GTA 1/2 perspective — no side view, no isometric. A broad rectangular golden broadcast studio is seen entirely from above inside a fixed ornate gold tazhib border. At the north of the floor plan, an aged turbine cleric with a torn muted-green robe, black turban, grey-streaked beard, and a red gear seal on his forehead sits behind an ornate gold desk; he is a small top-down character, not a portrait. At the center, the copper-and-silver queen minister is a circular black cable-chador silhouette with twelve blade-fan arms, standing ceremonially on a reed-patterned round platform. A ring of small olive imp attendants with horns and hooves surrounds the platform in distinct top-down poses. At the east edge, the hem of the queen's cable chador approaches a small turbine fuse panel, where a single tiny golden spark is suspended but nothing has ignited. Every smoke curl, cable, oil vein, and sound ripple is a delicate Persian cloud-band motif. Include a tiny Safavid tazhib corner ornament in the studio floor tiles and on the fuse-panel plaque. The exact same border, room geometry, character positions, character sizes, and lighting must remain fixed for all later frames. No readable text, no letters, no numbers, no labels, no watermark, no photorealism, no 3D, no vanishing point, no lens effects, no nudity, no explicit sexual content.",
+  "file_sha256": "882f46b5e76bdcabe1bd9d8fa153a07fd7f197646c0c8e7a0afb46d3f05a768f",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  },
+  "visual_QA": {
+    "status": "accepted_by_user",
+    "camera": "pass — direct top-down, north-up floor-plan composition",
+    "style": "pass — flat Safavid miniature palette, cloud-band cables, fixed tazhib border",
+    "character_tokens": "provisional pass — turbine cleric, queen cable-chador form, and olive imp attendants are present",
+    "text": "pass — no readable text, letters, or numbers observed",
+    "note": "Single anchor test only; no alignment-distance comparison is meaningful until F2 exists."
+  }
+}

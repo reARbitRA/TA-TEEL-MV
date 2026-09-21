@@ -1,0 +1,18 @@
+{
+  "frame": "F52r.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-milking",
+  "type": "chain-frame",
+  "status": "rejected_by_producer",
+  "reference_frame": "F51.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-prompts-continuation.md",
+  "prompt_delta": "north-east basiji turns vessel clockwise; milk pulse advances through exit pipe",
+  "file_sha256": "7a2828c0aa6a25e5d0171570bb2b9f775c4b5980515eeada7b7fe740021c6c98",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  },
+  "rejection_reason": "Producer rejected this continuation: it relied on palette/face drift rather than deliberate readable stop-motion body blocking and action."
+}

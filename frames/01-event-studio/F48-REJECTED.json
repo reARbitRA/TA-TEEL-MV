@@ -1,0 +1,18 @@
+{
+  "frame": "F48.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-milking",
+  "type": "chain-frame",
+  "status": "rejected_by_producer",
+  "reference_frame": "F47rr.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-prompts.md",
+  "prompt_delta": "north-west basiji tilts brass vessel 5°; milk ripple advances one hose segment",
+  "file_sha256": "aa070eef90dfe4fbcb00759c2f712d0b9233ed7838d75c9b267834f15444a6fa",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  },
+  "rejection_reason": "Rejected after visual recount/review: continuation lost the required eighth readable basiji and did not provide the producer-requested deliberate stop-motion body action."
+}

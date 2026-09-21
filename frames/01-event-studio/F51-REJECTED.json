@@ -1,0 +1,18 @@
+{
+  "frame": "F51.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-milking",
+  "type": "chain-frame",
+  "status": "rejected_by_producer",
+  "reference_frame": "F50.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-prompts.md",
+  "prompt_delta": "east basiji raises vessel; cloud-band bubble enters next pipe segment",
+  "file_sha256": "9d77b8d3463ac1497b9697abdd48fdaeae123bb1e936613f1432b74685084215",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  },
+  "rejection_reason": "Rejected after visual recount/review: continuation lost the required eighth readable basiji and did not provide the producer-requested deliberate stop-motion body action."
+}

@@ -1,0 +1,17 @@
+{
+  "frame": "F3.jpg",
+  "shot_id": "01-event-studio",
+  "type": "chain-frame",
+  "status": "accepted",
+  "reference_frame": "F2.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-studio-prompts.md",
+  "prompt_delta": "curtain panels retract one further step",
+  "timing_map_version": "8-calibrated",
+  "file_sha256": "edc186c50cb0343fdccd56f51fd08676fbfdfab830c0e4b627d29f368f6ca9b0",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  }
+}

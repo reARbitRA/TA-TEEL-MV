@@ -22,12 +22,12 @@ The camera does not move at all: no zoom, no pan, no crop — the gold tazhib bo
 
 ---
 
-## سکانس ۱ — ایوِنت / استودیو (گام ۱–۵ · 0:00–0:27)
-**مراجع:** refs/characters/turbine-akhund-pro.jpg + refs/scenes/v7-majles.png
+## سکانس ۱ — ایوِنت / نیروگاهِ داغان (گام ۱–۵ · 0:00–0:29.92)
+**مراجع:** `turbine-akhund-pro.jpg` + `zan-vazir-pro.jpg` + `basiji-pro.jpg` + `golden-calf-pro.jpg`
 ```
-[STYLE BLOCK] A golden state-television studio painted like an illuminated manuscript page, seen frontally as a framed medallion scene: a horned cleric news-anchor in a golden suit sits behind an ornate desk, calm smug smile; behind him a huge red velvet curtain is rising, revealing the power-plant council orgy behind: the colossal copper-and-silver queen dancing on a reed stage with twelve blade-fan arms, turbaned horned elders clapping, a tall black-lacquered three-headed statue honored as guest. At the left edge, the black hem of a chador is caught in the sparking fuse box of a turbine housing — one golden spark igniting. Gold tazhib border alive with cloud-bands.
+[STYLE BLOCK] A ruined old power plant seen strictly from directly above like a flat Safavid illuminated floor plan, not a television studio: broken copper turbines, cracked soot-black tiles, dead control cabinets, exposed pipes, and a fixed ornate gold tazhib border. The copper-and-silver queen minister is the unmistakable central protagonist, large and dominant: a circular black cable chador, twelve blade-fan arms, heavy kohl, gold teeth, and an eternal ember glow under the robe, matching `zan-vazir-pro.jpg`. Her cable chador is visibly jammed between the stationary blades and housing of the aged turbine cleric in the north-east turbine housing; he matches `turbine-akhund-pro.jpg` with torn muted-green robe, black turban, grey-streaked beard, and red gear seal on the forehead. A small secondary cluster is confined to the south-west corner only: one monumental horned bull from `golden-calf-pro.jpg`, and several olive demon-basiji attendants from `basiji-pro.jpg` with horns, cloven hooves, and clearly readable AK-47 rifles. They kneel around the bull, milking it through brass pails and short industrial hoses. The visibly milked flow travels through one branching pipe system to the turbine cleric. Every pipe, milk stream, smoke curl, oil vein, and spark is a Persian cloud-band motif. No television desk, stage curtain, host desk, audience, or modern screen exists. top-down bird's-eye view, camera looking straight down, north-up, classic GTA 1/2 perspective — no side view, no isometric.
 ```
-**فریم‌های رویداد:** پرده نیمه‌بالا → پرده کامل → چادر نزدیکِ فیوز → گیرکردن + فریز + ترکِ طلا → (فلاش در ادیت).
+**فریم‌های رویداد:** معرفیِ نیروگاه و گاو → میکروحرکتِ دوشیدنِ بسیجی‌ها → جریانِ شیر در شیلنگ‌ها تا آخوند توربین → کشش و گیرکردنِ چادر → فریز + ترک طلایی → (فلاش در ادیت).
 
 ## سکانس ۲ — تولدِ راوی (گام ۶ · 0:27–0:34)
 **مراجع:** refs/characters/candle-hero.jpg

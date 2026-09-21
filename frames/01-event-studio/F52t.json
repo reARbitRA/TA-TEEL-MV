@@ -1,0 +1,25 @@
+{
+  "frame": "F52t.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-action",
+  "type": "replacement-chain-frame",
+  "status": "accepted_pending_completion",
+  "reference_frame": "F51s.jpg",
+  "anchor_frame": "F47rr.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-action-prompts.md",
+  "prompt_delta": "neck turns to 19 degrees; south-center fully stands with shoulder-slung AK",
+  "qa": {
+    "top_down_north_up": true,
+    "bull_standing": true,
+    "required_basiji_count": 8,
+    "required_ak47_count": 8,
+    "visual_review": "pass — deliberate body action; locked frame treatment"
+  },
+  "file_sha256": "986623aef78e5392ed358ab66fb7ab0157aad80175279d0e151496e35098fd02",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  }
+}
