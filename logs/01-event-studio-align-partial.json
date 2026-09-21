@@ -1,0 +1,92 @@
+{
+  "method": "8x8 grayscale average hash; Hamming distance",
+  "thresholds": {
+    "continuous": 25,
+    "loop_closure": 12
+  },
+  "loop_tested": false,
+  "source_frames_untouched": true,
+  "same_dimensions": true,
+  "frames": [
+    {
+      "path": "frames/01-event-studio/F1.jpg",
+      "size": {
+        "width": 1408,
+        "height": 768
+      },
+      "average_hash_8x8": "ff0419b921193cff",
+      "file_sha256": "882f46b5e76bdcabe1bd9d8fa153a07fd7f197646c0c8e7a0afb46d3f05a768f"
+    },
+    {
+      "path": "frames/01-event-studio/F2.jpg",
+      "size": {
+        "width": 1408,
+        "height": 768
+      },
+      "average_hash_8x8": "ff0499a9a1993cff",
+      "file_sha256": "f8b363a772e424d45543d270e867091ccca4fb7e829fa4b7a210876e8f76a565"
+    },
+    {
+      "path": "frames/01-event-studio/F3.jpg",
+      "size": {
+        "width": 1408,
+        "height": 768
+      },
+      "average_hash_8x8": "ff0481a1a1993cff",
+      "file_sha256": "edc186c50cb0343fdccd56f51fd08676fbfdfab830c0e4b627d29f368f6ca9b0"
+    },
+    {
+      "path": "frames/01-event-studio/F4.jpg",
+      "size": {
+        "width": 1408,
+        "height": 768
+      },
+      "average_hash_8x8": "ff0481a1a1993cff",
+      "file_sha256": "19a93380707c2417a828da7a77a8ba1fb344e1e11a017880ae5c9d49693c2b8c"
+    },
+    {
+      "path": "frames/01-event-studio/F5r.jpg",
+      "size": {
+        "width": 1408,
+        "height": 768
+      },
+      "average_hash_8x8": "ff0581a1a1993cff",
+      "file_sha256": "87987c9091131094285e6d68cd0f71177aaca0ccb4c6bb1e07c385d7a61db0df"
+    }
+  ],
+  "pairs": [
+    {
+      "from": "frames/01-event-studio/F1.jpg",
+      "to": "frames/01-event-studio/F2.jpg",
+      "kind": "continuous",
+      "hamming": 4,
+      "limit": 25,
+      "pass": true
+    },
+    {
+      "from": "frames/01-event-studio/F2.jpg",
+      "to": "frames/01-event-studio/F3.jpg",
+      "kind": "continuous",
+      "hamming": 3,
+      "limit": 25,
+      "pass": true
+    },
+    {
+      "from": "frames/01-event-studio/F3.jpg",
+      "to": "frames/01-event-studio/F4.jpg",
+      "kind": "continuous",
+      "hamming": 0,
+      "limit": 25,
+      "pass": true
+    },
+    {
+      "from": "frames/01-event-studio/F4.jpg",
+      "to": "frames/01-event-studio/F5r.jpg",
+      "kind": "continuous",
+      "hamming": 1,
+      "limit": 25,
+      "pass": true
+    }
+  ],
+  "pass": true
+}
