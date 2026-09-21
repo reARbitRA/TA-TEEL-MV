@@ -1,0 +1,17 @@
+{
+  "frame": "F56r.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-milking",
+  "type": "chain-frame",
+  "status": "accepted_pending_final_subshot_review",
+  "reference_frame": "F55r.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-prompts-continuation.md",
+  "prompt_delta": "west basiji slides vessel counterclockwise; pulse enters long exit pipe",
+  "file_sha256": "11ba9d4a2160120b3ab87275a605227fad492bd2f6e1838087824d54589e4f0f",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  }
+}

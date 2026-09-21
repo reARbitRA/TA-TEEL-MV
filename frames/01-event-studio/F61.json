@@ -1,0 +1,17 @@
+{
+  "frame": "F61.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-milking",
+  "type": "chain-frame",
+  "status": "accepted_pending_final_subshot_review",
+  "reference_frame": "F60.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-prompts-continuation.md",
+  "prompt_delta": "north-west basiji settles vessel; pulse advances toward pipe exit",
+  "file_sha256": "1e9a138c6a17fe91e8de373b2502d5ca3298bae459fe969784ef2532b79cca0d",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  }
+}

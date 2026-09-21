@@ -1,0 +1,17 @@
+{
+  "frame": "F49.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-milking",
+  "type": "chain-frame",
+  "status": "accepted",
+  "reference_frame": "F48.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-prompts.md",
+  "prompt_delta": "north basiji lowers head; ripple advances another segment",
+  "file_sha256": "2ed6536ebee4d44a44b1e52fe2eb293370f5d8c0c6e4b41c04c8094c36aadca4",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  }
+}

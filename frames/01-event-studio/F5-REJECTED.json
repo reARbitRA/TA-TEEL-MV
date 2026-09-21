@@ -1,0 +1,18 @@
+{
+  "frame": "F5-REJECTED.jpg",
+  "shot_id": "01-event-studio",
+  "type": "rejected-chain-frame",
+  "status": "rejected",
+  "reference_frame": "F4.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-studio-prompts.md",
+  "prompt_delta": "chador hem advances halfway; spark becomes two-pronged",
+  "timing_map_version": "8-calibrated",
+  "file_sha256": "d26b3d40367b3dc5e7bfa44e2f2965e16d80eb4f693ac5ff77073618f575ac3d",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  },
+  "rejection_archive": "logs/01-event-studio-rejections.md"
+}

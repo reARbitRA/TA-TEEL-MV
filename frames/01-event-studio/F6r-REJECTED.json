@@ -1,0 +1,18 @@
+{
+  "frame": "F6r-REJECTED.jpg",
+  "shot_id": "01-event-studio",
+  "type": "rejected-chain-frame",
+  "status": "rejected",
+  "reference_frame": "F5r.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-studio-prompts.md",
+  "prompt_delta": "chador nearly reaches fuse; spark gets a cloud-band curl",
+  "timing_map_version": "8-calibrated",
+  "file_sha256": "23812a39a574d8876cca129faa44725aa01bcca6faa7c9c2deb91cfc4b73f736",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  },
+  "rejection_archive": "logs/01-event-studio-rejections.md"
+}

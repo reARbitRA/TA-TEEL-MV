@@ -1,0 +1,17 @@
+{
+  "frame": "F55r.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-milking",
+  "type": "chain-frame",
+  "status": "accepted_pending_final_subshot_review",
+  "reference_frame": "F54r.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-prompts-continuation.md",
+  "prompt_delta": "south basiji lifts vessel; glint reaches brass junction",
+  "file_sha256": "cf27f6370035d14c9b62dce41b0739eb90a96c2e1853b9989997bc62378814cd",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "frame": "F54r.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-milking",
+  "type": "chain-frame",
+  "status": "accepted_pending_final_subshot_review",
+  "reference_frame": "F53r.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-prompts-continuation.md",
+  "prompt_delta": "bull tail curls slightly west; faint gold glint moves in pipe",
+  "file_sha256": "697ef8d06f43a536fd6de5112a99833ecd83e3b54b4e12bc23acf859cd54f2be",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  }
+}

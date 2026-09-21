@@ -1,0 +1,21 @@
+{
+  "frame": "F47-REJECTED.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-milking",
+  "type": "rejected-anchor-test",
+  "status": "rejected",
+  "prompt_language": "en",
+  "prompt": "Persian Safavid miniature painting, 16th century: a closer top-down floor-plan view of the south-west machinery corner of the exact same ruined old power plant shown in the supplied wide master image. Keep the same flat mineral pigments, lapis night shadows, real gold leaf, ember orange, muted clerical green, fine black ink outlines, aged parchment, and fixed ornate gold tazhib border. top-down bird's-eye view, camera looking straight down, north-up, classic GTA 1/2 perspective — no side view, no isometric. The camera is now centered on the bull corner but remains perfectly vertical; this is a closer detail subshot in the same world, not a new location. At the center of this close view, one monumental male bull occupies a large area: a massive thick neck, broad shoulder hump, heavy chest, huge horn bases, powerful hindquarters, and absolutely no udder make it unmistakably a bull. Match the brass-and-coin material language of the supplied golden-calf reference while keeping the animal visibly worn, trapped, and distressed. Exactly eight small olive demon-basiji attendants matching the supplied basiji reference are individually visible around the bull in distinct kneeling mechanical-milking poses. Each has small horns, cloven hooves, and one clearly visible AK-47 rifle either slung over the back or lying immediately beside him. Brass vessels and short hoses collect an opaque milk flow from a concealed industrial manifold under the bull’s belly; the flow joins one larger cloud-band pipe that exits toward the north-east turbine intake. A small portion of the queen minister’s black cable chador appears at the far north-east edge, pulling toward the turbine, to keep continuity with the wide master. No readable text, letters, numbers, labels, watermark, photorealism, 3D, vanishing point, lens effects, nudity, or explicit sexual content.",
+  "file_sha256": "03564f20938e8dcd0d7df62f44435574d1044c03175d051eb4e5d7102af0b204",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  },
+  "references": [
+    "F11rr.jpg",
+    "basiji-pro.jpg",
+    "golden-calf-pro.jpg"
+  ],
+  "rejection_reason": "Only three countable demon-basijis appeared; the producer requires eight."
+}

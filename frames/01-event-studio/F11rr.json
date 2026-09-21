@@ -1,0 +1,25 @@
+{
+  "frame": "F11rr.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01A-ruined-powerplant",
+  "type": "anchor-test",
+  "status": "approved_master_reference",
+  "reference_frame": "F11r-REJECTED.jpg",
+  "prompt_language": "en",
+  "prompt": "Identical same painting as the supplied reference image: the same ruined old Safavid miniature power plant floor plan, same fixed gold tazhib border, same central dominant copper-and-silver queen minister with circular black cable chador and twelve blade-fan arms, same north-east turbine cleric, same cable chador jammed in the turbine housing, same small south-west horned bull, same three demon-basijis with AK-47 rifles, same pipe route and opaque milk flow, same cracked tiles, same colors, same lighting, same positions, same sizes, and same composition. top-down bird's-eye view, camera looking straight down, north-up, classic GTA 1/2 perspective — no side view, no isometric. The camera does not move at all: no zoom, no pan, no crop — the gold tazhib border stays in the exact same place, the same characters occupy the exact same positions and sizes as in the reference. ONLY these micro-changes: replace the small rectangular label at the north wall with a blank rusted brass fuse plaque with no visible marks; remove all lettering, symbols, glyphs, numbers, and markings from every control panel and plaque. Everything else stays exactly unchanged. Same flat Safavid miniature painting technique, fine black ink outlines, cloud-band motifs, no readable text, no letters, no numbers, no labels, no watermark, no photorealism, no 3D, no vanishing point, no lens effects, no nudity, no explicit sexual content.",
+  "file_sha256": "bca590e226bb6d32b75ea4ae962dba5b6271ff3b87ba5700b642b15b01f0252c",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  },
+  "visual_QA": {
+    "status": "approved_by_user_as_wide_master",
+    "camera": "pass — direct locked top-down, north-up",
+    "composition": "pass — queen minister is central; bull and demon-basiji cluster confined south-west",
+    "character_tokens": "provisional pass — queen, turbine cleric, bull, and AK-47 basiji tokens present",
+    "text": "pass — no readable lettering observed",
+    "alignment": "single corrected anchor; pairwise aHash begins with next accepted frame",
+    "note": "Producer approved the graphic direction; this image is retained as the wide world-map reference while close subshot anchors are tested separately."
+  }
+}

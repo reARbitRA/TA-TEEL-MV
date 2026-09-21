@@ -1,0 +1,17 @@
+{
+  "frame": "F60.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-milking",
+  "type": "chain-frame",
+  "status": "accepted_pending_final_subshot_review",
+  "reference_frame": "F59.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-prompts-continuation.md",
+  "prompt_delta": "east basiji tilts horned head; pulse enters glass arc",
+  "file_sha256": "7bc133ba0346d4e52d90d37892c2219726350ef1ed359707bc23653bc8313ff8",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  }
+}

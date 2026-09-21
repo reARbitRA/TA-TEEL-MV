@@ -1,0 +1,18 @@
+{
+  "frame": "F8-REJECTED.jpg",
+  "shot_id": "01-event-studio",
+  "type": "rejected-chain-frame",
+  "status": "rejected",
+  "reference_frame": "F7-REJECTED.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-studio-prompts.md",
+  "prompt_delta": "fracture branches; one spark separates",
+  "timing_map_version": "8-calibrated",
+  "file_sha256": "02b42e6c10192dcb391e74e0333c744c4885f5fbb4faa386446fc59f508edd09",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  },
+  "rejection_archive": "logs/01-event-studio-rejections.md"
+}

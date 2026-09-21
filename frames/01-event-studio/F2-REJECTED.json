@@ -1,0 +1,17 @@
+{
+  "frame": "F2.jpg",
+  "shot_id": "01-event-studio",
+  "type": "chain-frame",
+  "status": "accepted",
+  "reference_frame": "F1.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-studio-prompts.md",
+  "prompt_delta": "curtain panels retract one small step; spark brightens one step",
+  "timing_map_version": "8-calibrated",
+  "file_sha256": "f8b363a772e424d45543d270e867091ccca4fb7e829fa4b7a210876e8f76a565",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  }
+}

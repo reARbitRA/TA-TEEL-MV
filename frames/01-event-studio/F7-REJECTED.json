@@ -1,0 +1,18 @@
+{
+  "frame": "F7-REJECTED.jpg",
+  "shot_id": "01-event-studio",
+  "type": "rejected-chain-frame",
+  "status": "rejected",
+  "reference_frame": "F6-REJECTED.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-studio-prompts.md",
+  "prompt_delta": "chador contacts fuse; hairline fracture appears",
+  "timing_map_version": "8-calibrated",
+  "file_sha256": "8a547e928e466f3b32e1eeb2a2d33e317a8856154760a44ce858599bf9c16830",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  },
+  "rejection_archive": "logs/01-event-studio-rejections.md"
+}

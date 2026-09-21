@@ -1,0 +1,17 @@
+{
+  "frame": "F4.jpg",
+  "shot_id": "01-event-studio",
+  "type": "chain-frame",
+  "status": "accepted",
+  "reference_frame": "F3.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-studio-prompts.md",
+  "prompt_delta": "chador hem advances a short distance; spark brightens one step",
+  "timing_map_version": "8-calibrated",
+  "file_sha256": "19a93380707c2417a828da7a77a8ba1fb344e1e11a017880ae5c9d49693c2b8c",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  }
+}
