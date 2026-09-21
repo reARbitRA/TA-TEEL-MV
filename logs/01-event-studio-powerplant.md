@@ -82,3 +82,9 @@ Both frames are rejected and archived: they introduced an unauthorized generic e
 
 ## Visual-QA rejection — F56d
 The retry also fails: no elderly human remains, but the guitarist was enlarged/repositioned and the required eight basiji arrangement was not preserved. It is archived as `F56d-REJECTED` and must not seed a successor.
+
+## Count QA failure — dynamic action path
+F54c, F55c and F56e rejected. Visual recount found only seven readable basijis once performer/kicker enlarged; F56e also had unacceptable identity drift. The last count-valid sheet-locked frame is F53c. Rebuild action with the required in-viewport zoom-out *before* enlarged performer/kicker poses, keeping eight figures readable.
+
+## Rejected action-rebuild variants
+F54d, F54e and F54f rejected and archived after visual QA: they respectively redesigned the HUD, created a ninth basiji, or failed to move the specified kicker. They must not seed the continuation. Active valid sheet-locked progression stops at F53c.
