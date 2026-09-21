@@ -1,14 +1,14 @@
 {
-  "frame": "F56t.jpg",
+  "frame": "F55t.jpg",
   "shot_id": "01-event-powerplant",
   "subshot": "01C-bull-action",
   "type": "replacement-chain-frame",
-  "status": "accepted_pending_completion",
-  "reference_frame": "F55t.jpg",
+  "status": "rejected_by_producer",
+  "reference_frame": "F54t.jpg",
   "anchor_frame": "F47rr.jpg",
   "prompt_language": "en",
   "prompt_archive": "logs/01-event-powerplant-01C-action-prompts.md",
-  "prompt_delta": "kicker swings boot just short of contact",
+  "prompt_delta": "larger guitar strum; south-east raises knee for comic kick",
   "qa": {
     "top_down_north_up": true,
     "bull_standing": true,
@@ -16,10 +16,11 @@
     "required_ak47_count": 8,
     "visual_review": "pass — deliberate body action; locked frame treatment"
   },
-  "file_sha256": "2fcc04c3b71e947f82b710728f6dc6535b0fc6e396815581f038ad14e58ad74f",
+  "file_sha256": "b02372852c28894751f18300daea0235dd0ece480d38c993bfce181781354b0f",
   "image": {
     "width": 1408,
     "height": 768,
     "format": "JPEG"
-  }
+  },
+  "rejection_reason": "Producer replaced this beat with a 3–4-frame progressive 2D zoom-out and a fused organic priest-turbine character, two turbine guards, corrected connected piping, and revised action blocking."
 }

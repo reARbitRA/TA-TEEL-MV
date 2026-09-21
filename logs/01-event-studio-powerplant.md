@@ -64,3 +64,9 @@ Visual recount found the earlier F48–F51 continuation had already lost the upp
 
 ## 01C action rebuild, pass one
 F48s–F56t are the accepted action-focused replacement path from eight-basiji anchor F47rr. The contact sheet visually confirms a locked frame/border, an incremental bull-neck turn, a south-center basiji rising, AK-as-guitar pantomime, and a south-east basiji setting a kick. aHash successor sequence is `[1,0,1,0,1,0,0,1,0]`, all within the continuous threshold of 25. Remaining action beats begin with kick contact in F57t.
+
+## Producer revision — progressive zoom and fused priest-turbine
+F54t–F58t are archived as `-REJECTED`. The next action build begins at F53t and uses a three-to-four-frame, strictly top-down progressive 2D zoom-out. The wide tableau must have one fused organic turbine-priest (turban and prayer stone integrated into its turbine body), two new guard basijis, and continuous connected pipework from the bull manifold into the entity.
+
+## UI-frame correction — producer hard lock
+F54u and F55u rejected and archived. The ornate video-game UI bezel/HUD is a pixel-locked overlay, not a camera frame: its reserved trophy and score/casualty regions stay in the same screen coordinates and remain blank unless producer specifies UI content. Future 2D zoom/pan moves only the world inside the viewport. When camera travels from the bull action to the minister/turbine-priest, the bull group exits through the lower-left of the viewport rather than being rescaled into the centre.

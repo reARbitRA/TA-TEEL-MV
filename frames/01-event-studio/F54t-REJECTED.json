@@ -3,7 +3,7 @@
   "shot_id": "01-event-powerplant",
   "subshot": "01C-bull-action",
   "type": "replacement-chain-frame",
-  "status": "accepted_pending_completion",
+  "status": "rejected_by_producer",
   "reference_frame": "F53t.jpg",
   "anchor_frame": "F47rr.jpg",
   "prompt_language": "en",
@@ -21,5 +21,6 @@
     "width": 1408,
     "height": 768,
     "format": "JPEG"
-  }
+  },
+  "rejection_reason": "Producer replaced this beat with a 3–4-frame progressive 2D zoom-out and a fused organic priest-turbine character, two turbine guards, corrected connected piping, and revised action blocking."
 }
