@@ -1,0 +1,25 @@
+{
+  "frame": "F56t.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-action",
+  "type": "replacement-chain-frame",
+  "status": "accepted_pending_completion",
+  "reference_frame": "F55t.jpg",
+  "anchor_frame": "F47rr.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-action-prompts.md",
+  "prompt_delta": "kicker swings boot just short of contact",
+  "qa": {
+    "top_down_north_up": true,
+    "bull_standing": true,
+    "required_basiji_count": 8,
+    "required_ak47_count": 8,
+    "visual_review": "pass — deliberate body action; locked frame treatment"
+  },
+  "file_sha256": "2fcc04c3b71e947f82b710728f6dc6535b0fc6e396815581f038ad14e58ad74f",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  }
+}

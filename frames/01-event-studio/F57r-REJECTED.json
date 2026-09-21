@@ -3,7 +3,7 @@
   "shot_id": "01-event-powerplant",
   "subshot": "01C-bull-milking",
   "type": "chain-frame",
-  "status": "accepted_pending_final_subshot_review",
+  "status": "rejected_by_producer",
   "reference_frame": "F56r.jpg",
   "prompt_language": "en",
   "prompt_archive": "logs/01-event-powerplant-01C-prompts-continuation.md",
@@ -13,5 +13,6 @@
     "width": 1408,
     "height": 768,
     "format": "JPEG"
-  }
+  },
+  "rejection_reason": "Producer rejected this continuation: it relied on palette/face drift rather than deliberate readable stop-motion body blocking and action."
 }

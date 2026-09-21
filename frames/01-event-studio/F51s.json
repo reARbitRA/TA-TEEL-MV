@@ -1,0 +1,25 @@
+{
+  "frame": "F51s.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-action",
+  "type": "replacement-chain-frame",
+  "status": "accepted_pending_completion",
+  "reference_frame": "F50s.jpg",
+  "anchor_frame": "F47rr.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-action-prompts.md",
+  "prompt_delta": "neck turns to 16 degrees; south-center becomes half-standing",
+  "qa": {
+    "top_down_north_up": true,
+    "bull_standing": true,
+    "required_basiji_count": 8,
+    "required_ak47_count": 8,
+    "visual_review": "pass — deliberate body action; locked frame treatment"
+  },
+  "file_sha256": "5c1267fb45940b97e3b6fad73a4bd14e3b266e01b54fd4ff917f90dab199215c",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  }
+}

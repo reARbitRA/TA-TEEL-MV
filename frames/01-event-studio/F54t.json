@@ -1,0 +1,25 @@
+{
+  "frame": "F54t.jpg",
+  "shot_id": "01-event-powerplant",
+  "subshot": "01C-bull-action",
+  "type": "replacement-chain-frame",
+  "status": "accepted_pending_completion",
+  "reference_frame": "F53t.jpg",
+  "anchor_frame": "F47rr.jpg",
+  "prompt_language": "en",
+  "prompt_archive": "logs/01-event-powerplant-01C-action-prompts.md",
+  "prompt_delta": "guitar strum; south-east begins to rise behind performer",
+  "qa": {
+    "top_down_north_up": true,
+    "bull_standing": true,
+    "required_basiji_count": 8,
+    "required_ak47_count": 8,
+    "visual_review": "pass — deliberate body action; locked frame treatment"
+  },
+  "file_sha256": "afd5e9b4e257a1ce0a64918bf71fdc667d5493bf976848477c68c0069d285201",
+  "image": {
+    "width": 1408,
+    "height": 768,
+    "format": "JPEG"
+  }
+}

@@ -55,3 +55,12 @@ F48 تا F51 هم از گیت aHash و هم از تماس‌شیتِ چشمی گ
 
 ## ادامهٔ پذیرفته‌شدهٔ 01C
 F52r تا F61 با قفلِ صریحِ گاو ایستاده تولید و در تماس‌شیت چک شدند. هر ۱۴ جفتِ فعلی از F47rr تا F61 گیت aHash پی‌درپی را با بیشینهٔ فاصلهٔ ۱ گذراندند. برای کامل‌شدن بودجهٔ ۱۸ فریمی 01C، فقط F62 تا F64 باقی مانده‌اند.
+
+## Producer revision — reject passive 01C continuation
+F52r–F61 were rejected by the producer despite passing aHash: their unwanted palette/face drift substituted for animation. Archived as `-REJECTED`. Replacement chain starts from F51 with locked border/light/faces and explicit readable body blocking: bull neck turn, basiji repositioning, standing guitar pantomime with slung AK-47, a non-graphic kick from behind, and an accidental safe-direction discharge.
+
+## Count correction
+Visual recount found the earlier F48–F51 continuation had already lost the upper-left basiji, reducing the required group of eight to seven. They are now archived as `-REJECTED`, along with first action test F52s. F47rr remains the only valid 01C anchor; the action chain restarts directly from it.
+
+## 01C action rebuild, pass one
+F48s–F56t are the accepted action-focused replacement path from eight-basiji anchor F47rr. The contact sheet visually confirms a locked frame/border, an incremental bull-neck turn, a south-center basiji rising, AK-as-guitar pantomime, and a south-east basiji setting a kick. aHash successor sequence is `[1,0,1,0,1,0,0,1,0]`, all within the continuous threshold of 25. Remaining action beats begin with kick contact in F57t.
