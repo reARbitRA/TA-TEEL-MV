@@ -112,3 +112,7 @@ The camera does not move at all: no zoom, no pan, no crop — the gold tazhib bo
 
 ---
 *دلتاها همیشه: مرجع = فریمِ قبل (زنجیره) یا لنگر (حلقه‌های تنگ — §۳.۸) + قفلِ قاب + یک میکروحرکت.*
+
+> ⭐ **قفلِ دوربین (۲۱ سپتامبر ۲۰۲۶ — قانون):** در «همهٔ» پرامپت‌های لنگر و رویداد، جملهٔ قفلِ قاب باید این عبارت را داشته باشد:
+> `top-down bird's-eye view, camera looking straight down, north-up, classic GTA 1/2 perspective — no side view, no isometric`
+> نمای جانبی ممنوع؛ مرجعِ چشمی = `animatic.html`.
