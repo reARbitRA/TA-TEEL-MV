@@ -76,3 +76,9 @@ No final frame may use generic or inferred character designs. For every non-bull
 
 ## 01C sheet-locked rebuild
 F47c–F55c replace the invalid pre-sheet-lock action path. The contact sheet confirms fixed UI bezel, eight sheet-locked basijis, standing bull, gradual neck turn and staged guitar/kick setup. Alignment successor distances: 2, 3, 4, 1, 2, 2, 0, 4.
+
+## Visual-QA rejection — F56c/F57c
+Both frames are rejected and archived: they introduced an unauthorized generic elderly human and broke the eight-basiji character-sheet/count lock. This is a hard visual failure despite the prompt. Replacement must be inspected before any successor is generated.
+
+## Visual-QA rejection — F56d
+The retry also fails: no elderly human remains, but the guitarist was enlarged/repositioned and the required eight basiji arrangement was not preserved. It is archived as `F56d-REJECTED` and must not seed a successor.
